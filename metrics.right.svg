@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1649" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="823" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex:1 1 0;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:7px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex:1 1 0;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:7px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -112,10 +112,10 @@
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.670329670329672" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="9.670329670329672" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="9.670329670329672" y="0" width="198.24175824175825" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="207.9120879120879" y="0" width="12.087912087912088" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.565217391304348" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="9.565217391304348" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="9.565217391304348" y="0" width="198.47826086956522" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="208.04347826086956" y="0" width="11.956521739130434" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -134,7 +134,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">87 <small>merged</small></span>
+                                <span class="no-wrap">88 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -200,13 +200,8 @@
                             <div class="entry">
                                 <span class="value">16</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                30
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 31
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -268,6 +263,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 12
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                13
                             </div>
                         </div>
                     </section>
@@ -277,13 +277,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                30
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 31
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -345,6 +340,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 12
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                13
                             </div>
                         </div>
                     </section>
@@ -374,7 +374,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#ca1029f</span>
+                                        <span class="sha">#157241c</span>
                                         <span class="message">Update metrics.left.svg - [Skip GitHub Action]</span>
                                     </div>
                                 </div>
@@ -384,37 +384,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         <div class="user">Lelberto</div>
-                                        closed
-                                        <span class="issue">#12 Module documentation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Lelberto in <span class="repo">la-guirlande/guirlande-hub-backend</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
-                                        <span class="repo">la-guirlande/la-guirlande</span>
+                                        <span class="repo">la-guirlande/modules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">weather-module</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2fd8494</span>
-                                        <span class="message">Update metrics.right.svg - [Skip GitHub Action]</span>
+                                        <span class="sha">#1e65110</span>
+                                        <span class="message">Add weather module</span>
                                     </div>
                                 </div>
                             </section>
@@ -423,34 +405,13 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">la-guirlande/la-guirlande</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2a1958f</span>
-                                        <span class="message">Update metrics.left.svg - [Skip GitHub Action]</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         <div class="user">Lelberto</div>
                                         created new
-                      tag
-                                        <span class="code">v1.0.0</span>
+                      branch
+                                        <span class="code">weather-module</span>
                                         in
                                         <span class="repo">la-guirlande/modules</span>
                                     </div>
@@ -461,109 +422,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         <div class="user">Lelberto</div>
-                                        pushed 41 commits in
-                                        <span class="repo">la-guirlande/modules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#206bcc4</span>
-                                        <span class="message">Merge pull request #5 from la-guirlande/fix-packaging
-
-Fix packaging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e66ca83</span>
-                                        <span class="message">Fix paths in packaging archives
-Now the execution from entry point (DEV) and from the main in archive (PROD) works both</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e8be97d</span>
-                                        <span class="message">Merge pull request #4 from la-guirlande/packaging
-
-CLI and packaging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#84d0a34</span>
-                                        <span class="message">Make refactored functions private</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#20789b0</span>
-                                        <span class="message">Refactoring package script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cbab999</span>
-                                        <span class="message">Merge pull request #1 from la-guirlande/led-strip
-
-Led strip</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aaaf635</span>
-                                        <span class="message">Remove test in gitignore</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#020d048</span>
-                                        <span class="message">Fix -w option</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#80a4546</span>
-                                        <span class="message">Add EOL in prints</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#07a6be7</span>
-                                        <span class="message">Add watch on module launch script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0fba473</span>
-                                        <span class="message">Prints command help when unknown subcommand</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5e14eef</span>
-                                        <span class="message">Add project entry point script
-Add module start script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#808b9c3</span>
-                                        <span class="message">Move packaging script into ./scripts/package.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#21d6da4</span>
-                                        <span class="message">Add package script (WIP)
-Add requirements.txt in module instead of project root
-Add archives folder in gitignore</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e41f410</span>
-                                        <span class="message">Rename led_strip.py to main.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#83cef23</span>
-                                        <span class="message">Add .venv in gitignore
-Add requirements</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#118a646</span>
-                                        <span class="message">Add led strip full logic (colors and loops)
-WIP : Add GPIO write in set_color function</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0b06ba5</span>
-                                        <span class="message">Add color module
-Rename utils module to project</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fb53758</span>
-                                        <span class="message">Add LED strip module source
-WIP</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b6edbdd</span>
-                                        <span class="message">Add utils</span>
+                                        created new
+                      branch
+                                        <span class="code">weather-module</span>
+                                        in
+                                        <span class="repo">la-guirlande/guirlande-hub-backend</span>
                                     </div>
                                 </div>
                             </section>
@@ -572,107 +439,49 @@ WIP</span>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         <div class="user">Lelberto</div>
-                                        pushed 41 commits in
-                                        <span class="repo">la-guirlande/modules</span>
+                                        deleted
+                      branch
+                                        <span class="code">led-strip/weather</span>
+                                        in
+                                        <span class="repo">la-guirlande/guirlande-hub-backend</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/1.0.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e66ca83</span>
-                                        <span class="message">Fix paths in packaging archives
-Now the execution from entry point (DEV) and from the main in archive (PROD) works both</span>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Lelberto</div>
+                                        created new
+                      branch
+                                        <span class="code">led-strip/weather</span>
+                                        in
+                                        <span class="repo">la-guirlande/guirlande-hub-backend</span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">#e8be97d</span>
-                                        <span class="message">Merge pull request #4 from la-guirlande/packaging
-
-CLI and packaging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#84d0a34</span>
-                                        <span class="message">Make refactored functions private</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#20789b0</span>
-                                        <span class="message">Refactoring package script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cbab999</span>
-                                        <span class="message">Merge pull request #1 from la-guirlande/led-strip
-
-Led strip</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aaaf635</span>
-                                        <span class="message">Remove test in gitignore</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#020d048</span>
-                                        <span class="message">Fix -w option</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#80a4546</span>
-                                        <span class="message">Add EOL in prints</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#07a6be7</span>
-                                        <span class="message">Add watch on module launch script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0fba473</span>
-                                        <span class="message">Prints command help when unknown subcommand</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5e14eef</span>
-                                        <span class="message">Add project entry point script
-Add module start script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#808b9c3</span>
-                                        <span class="message">Move packaging script into ./scripts/package.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#21d6da4</span>
-                                        <span class="message">Add package script (WIP)
-Add requirements.txt in module instead of project root
-Add archives folder in gitignore</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e41f410</span>
-                                        <span class="message">Rename led_strip.py to main.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#83cef23</span>
-                                        <span class="message">Add .venv in gitignore
-Add requirements</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#118a646</span>
-                                        <span class="message">Add led strip full logic (colors and loops)
-WIP : Add GPIO write in set_color function</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0b06ba5</span>
-                                        <span class="message">Add color module
-Rename utils module to project</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fb53758</span>
-                                        <span class="message">Add LED strip module source
-WIP</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b6edbdd</span>
-                                        <span class="message">Add utils</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c9188bf</span>
-                                        <span class="message">Add project base files</span>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Lelberto</div>
+                                        created new
+                      branch
+                                        <span class="code">dashboard</span>
+                                        in
+                                        <span class="repo">la-guirlande/guirlande-hub-frontend</span>
                                     </div>
                                 </div>
                             </section>
