@@ -182,13 +182,13 @@
                             04
                         </div>
                         <div class="entry">
-                            <span class="value">14</span>
+                            <span class="value">15</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             05
                         </div>
                         <div class="entry">
-                            <span class="value">14</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             06
                         </div>
                         <div class="entry">
@@ -388,7 +388,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Nov 2022, 05:48:03 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Nov 2022, 05:53:48 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
